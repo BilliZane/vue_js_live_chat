@@ -44,7 +44,6 @@ export default {
 .welcome {
   text-align: center;
   padding: 20px 0;
-  /* font-size: 24px; */
 }
 /* form styles */
 .welcome form {
